@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artem</h1>
+<h1 align="center">Hi 👋, I'm Artem and I'm glad to see you in mu page!</h1>
 
 ### 🛠️ Tech Stack
 
@@ -47,11 +47,3 @@
 - 💼 [Habr](https://career.habr.com/klochkovart)
 - 🐘 [Telegram](https://t.me/@hey_bouss) 
 - ✉️ klochkov.tem@gmail.com  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KlochkovAV&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs

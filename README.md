@@ -24,21 +24,29 @@
 
 ### 🚀 Featured Projects
 
+- **[Assistant Bot](https://github.com/KlochkovAV/assistant-bot)**  
+  Telegram bot that polls an API and notifies about response status.  
+  `Python • asyncio • pyTelegramBotAPI • logging`
+
 - **[Foodgram](https://github.com/KlochkovAV/foodgram)**  
   A recipe-sharing platform with subscriptions, favorites, and shopping lists. Full Docker setup + CI/CD.  
   `Django • DRF • PostgreSQL • Docker • GitHub Actions`
 
-- **[YaMDb API](https://github.com/KlochkovAV/api-yamdb)**  
-  Review service for books, movies, and music with role-based access (user/moderator/admin) and JWT auth.  
-  `Django • DRF • Djoser • JWT • SQLite3`
-
-- **[Async Yacut](https://github.com/KlochkovAV/async-yacut)**  
+- **[Short link generator](https://github.com/KlochkovAV/short_link_generator)**  
   URL shortener with async file uploads to Yandex.Disk.  
   `Flask • asyncio • aiohttp • SQLAlchemy`
 
-- **[Homework Bot](https://github.com/KlochkovAV/homework-bot)**  
-  Telegram bot that polls an API and notifies about homework review status.  
-  `Python • asyncio • pyTelegramBotAPI • logging`
+- **[Yamdb](https://github.com/KlochkovAV/yamdb)**  
+  Review service for books, movies, and music with role-based access (user/moderator/admin) and JWT auth.  
+  `Django • DRF • Djoser • JWT • SQLite3`
+  
+- **[News master](https://github.com/KlochkovAV/yamdb)**  
+  A news portal with article publishing, commenting, and category filtering. Covered with tests (90% coverage). 
+  `Django • Pytest • Unittest • SQLite3`
+
+- **[Yatube](https://github.com/KlochkovAV/yamdb)**  
+  A social blog platform where users can publish posts, comment, and subscribe to authors. Includes pagination and user profiles.  
+  `Django • SQLite3`
 
 ➡️ [View all projects](https://github.com/KlochkovAV?tab=repositories)
 
@@ -46,9 +54,9 @@
 
 ### 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(optional)*  
-- ✉️ klochkov.av@example.com  
-- 🐘 [Telegram](https://t.me/your_username) *(optional)*
+- 💼 [Habr](https://career.habr.com/klochkovart)
+- 🐘 [Telegram](https://t.me/@hey_bouss) 
+- ✉️ klochkov.tem@gmail.com  
 
 ---
 

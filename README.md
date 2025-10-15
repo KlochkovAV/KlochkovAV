@@ -1,12 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">Backend Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/KlochkovAV?tab=repositories">
-    <img src="https://img.shields.io/github/stars/KlochkovAV?style=social" alt="GitHub stars" />
-  </a>
-</p>
 
 ---
 

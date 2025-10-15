@@ -29,7 +29,7 @@
   `Django • DRF • Djoser • JWT • SQLite3`
   
 - **[News master](https://github.com/KlochkovAV/yamdb)**  
-  A news portal with article publishing, commenting, and category filtering. Covered with tests (90% coverage). 
+  A news portal with article publishing, commenting, and category filtering. Covered with tests. 
   `Django • Pytest • Unittest • SQLite3`
 
 - **[Yatube](https://github.com/KlochkovAV/yamdb)**  

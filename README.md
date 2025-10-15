@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Artem and I'm glad to see you in mu page!</h1>
-
 ### 🛠️ Tech Stack
 
 - **Languages**: Python  

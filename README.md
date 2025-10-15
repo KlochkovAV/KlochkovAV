@@ -1,7 +1,4 @@
-
 <h1 align="center">Hi 👋, I'm Artem</h1>
-
----
 
 ### 🛠️ Tech Stack
 

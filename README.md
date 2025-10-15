@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">Python Backend Developer | Automating workflows, building APIs, and learning every day</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   <a href="https://github.com/KlochkovAV?tab=repositories">

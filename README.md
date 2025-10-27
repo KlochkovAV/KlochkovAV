@@ -4,5 +4,5 @@
 - **Фреймворки**: Django, Django REST Framework, Flask
 - **СУБД**: PostgreSQL, SQLite3
 - **Аутентификация**: JWT, Djoser
-- **DevOps**: Docker, GitHub Actions, Nginx, Gunicorn
+- **DevOps**: Docker, Docker Compose, GitHub Actions, Nginx, Gunicorn
 - **Тестирование**: pytest, unittest
